@@ -1,0 +1,6 @@
+{
+  "name": "MNIST Digit Recognizer",
+  "description": "A machine learning application that recognizes handwritten digits using a canvas drawing interface and a trained model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
